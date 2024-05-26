@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "moment": "^2.29.4",
-    "moment-timezone": "^0.5.35",
+    "moment-timezone": "^0.5.45",
     "probot": "^7.4.0",
     "probot-scheduler": "^1.0.3"
   },
