@@ -22,7 +22,7 @@
     "*.js": "eslint --fix"
   },
   "dependencies": {
-    "moment": "^2.29.4",
+    "moment": "^2.30.1",
     "moment-timezone": "^0.5.35",
     "probot": "^9.13.1",
     "probot-scheduler": "^1.0.3"
